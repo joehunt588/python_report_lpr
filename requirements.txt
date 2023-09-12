@@ -1,0 +1,4 @@
+Pillow
+fpdf
+tqdm
+pandas
